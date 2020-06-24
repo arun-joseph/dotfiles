@@ -1,0 +1,9 @@
+[ui]
+username = ajoseph
+
+[diff]
+git=True
+
+[extensions]
+strip=
+purge=
