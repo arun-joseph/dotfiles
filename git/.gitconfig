@@ -3,3 +3,4 @@
 	email = arunjosephkv2@gmail.com
 [alias]
 	ll = log --oneline --graph
+	st = status
